@@ -9,6 +9,7 @@
     <tr>
       <td align="center"><a href="https://github.com/moonyah"><img src="https://avatars.githubusercontent.com/u/51106050?v=4" width="150px;" alt=""/><br /><sub><b>moonyah</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/dobidugi"><img src="https://avatars.githubusercontent.com/u/21123166?v=4" width="150px;" alt=""/><br /><sub><b>dobidugi</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/jeohong"><img src="https://avatars.githubusercontent.com/u/96639917?v=4" width="150px;" alt=""/><br /><sub><b>jeohong</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
