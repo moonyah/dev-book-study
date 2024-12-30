@@ -4,15 +4,9 @@
 
 ## 👥 참여자
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/moonyah"><img src="https://avatars.githubusercontent.com/u/51106050?v=4" width="150px;" alt=""/><br /><sub><b>moonyah</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/dobidugi"><img src="https://avatars.githubusercontent.com/u/21123166?v=4" width="150px;" alt=""/><br /><sub><b>dobidugi</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/jeohong"><img src="https://avatars.githubusercontent.com/u/96639917?v=4" width="150px;" alt=""/><br /><sub><b>jeohong</b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
+- [moonyah](https://github.com/moonyah)
+- [dobidugi](https://github.com/dobidugi)
+- [jeohong](https://github.com/jeohong)
 
 ## 📑 스터디 진행 방식
 
@@ -34,7 +28,9 @@ dev-book-study/
 └── README.md (이 파일)
 ```
 
-## 🗓️ 스터디 일정
+## 📚 스터디 로그
 
-- **책**: "객체지향의 사실과 오해"
-  - **기간**: 2024-10-06 ~ (현재 진행 중)
+|                                                  책 표지                                                  |        책 제목         |  저자  |          기간           |                                                        참여자                                                         |                       기록                       |
+| :-------------------------------------------------------------------------------------------------------: | :--------------------: | :----: | :---------------------: | :-------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/95c769f6-4864-4baf-a21e-2fdb1b60d06d" width="100" /> | 객체지향의 사실과 오해 | 조영호 | 2024-10-06 ~ 2024-12-11 | [moonyah](https://github.com/moonyah), [dobidugi](https://github.com/dobidugi), [jeohong](https://github.com/jeohong) | [스터디 기록 보기](./객체지향의%20사실과%20오해) |
+| <img src="https://github.com/user-attachments/assets/88582ad6-92a9-4142-920f-5958d8bf96c4" width="100" /> |  AI 시대의 프로그래머  | 김영한 |  2024-12-30 ~ 진행 중   |                    [moonyah](https://github.com/moonyah), [dobidugi](https://github.com/dobidugi)                     |  [스터디 기록 보기](./AI%20시대의%20프로그래머)  |
