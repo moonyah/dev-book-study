@@ -5,7 +5,9 @@
 
 ## 1. 지저분해지는 코드
 
-![Image](https://github.com/user-attachments/assets/0d8c8b6c-7f06-432e-906e-7839e042990e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d8c8b6c-7f06-432e-906e-7839e042990e" width="500">
+</p>
 
 메뉴 영역에 1, 2, .... 이렇게 있고 공통 영역 버튼 1, 2, ... 이렇게 있는 경우에
 
